@@ -1,0 +1,7 @@
+# Start Portal HTMX
+.env
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
